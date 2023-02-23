@@ -109,6 +109,7 @@ public class b_06_while {
 				}
 			} while(true);
 		}
+		sc.close();
 		
 		System.out.printf("%d전 %d승 %d패 입니다.", battle, win, battle-win);
 	}
