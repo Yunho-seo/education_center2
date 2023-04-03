@@ -1,4 +1,4 @@
-# educational_center
+# education_center2
 
 대전 미래융합교육원 (23.02.21 ~ 23.08.09)
 매일매일 실습한 것 정리
